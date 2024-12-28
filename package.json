@@ -12,7 +12,7 @@
     "async": "^3.2.0",
     "config": "^3.2.4",
     "esm": "^3.2.25",
-    "firebase-admin": "^8.9.2",
+    "firebase-admin": "^13.0.2",
     "form-data": "^3.0.0",
     "node-fetch": "^2.6.0",
     "node-rdkafka": "^2.7.1-2",
